@@ -55,13 +55,13 @@
 
 Χρησιμοποιώντας το google ως κύρια μέθοδο πληροφόρησης η βιβλιογραφία-links τα οποία βοήθησαν είναι η παρακάτω:
 
-* https://codepen.io/Yurchenko/pen/dGQZay
-* https://codepen.io/chiranjeeb/pen/KdXGoE
-* http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=344529&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el
-* http://www.statistics.gr/el/statistics/-/publication/SEL15/-
-* https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20181122-1?inheritRedirect=true&redirect=%2Feurostat%2Fnews%2Fwhats-new
-* https://responsivevoice.org/
-* https://stackoverflow.com/
-* https://github.com/d3/d3/wiki/Gallery
-* https://developer.mozilla.org/el/
-* Η εργασία βασίστηκε στον κώδικα της αρχικής εργασίας https://github.com/ioniodi/D3js-US-educational-attainment.
+* [line chart](https://codepen.io/Yurchenko/pen/dGQZay)
+* [pie chart](https://codepen.io/chiranjeeb/pen/KdXGoE)
+* [eurostat1](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=344529&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el)
+* [elstat1](http://www.statistics.gr/el/statistics/-/publication/SEL15/-)
+* [elstat2](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20181122-1?inheritRedirect=true&redirect=%2Feurostat%2Fnews%2Fwhats-new)
+* [responsive voice](https://responsivevoice.org/)
+* [stack overflow](https://stackoverflow.com/)
+* [d3 github](https://github.com/d3/d3/wiki/Gallery)
+
+* Η εργασία βασίστηκε στον [κώδικα της αρχικής εργασίας](https://github.com/ioniodi/D3js-US-educational-attainment).
