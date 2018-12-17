@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Επικοινωνία Ανθρώπου-Υπολογιστή
+Ονοματεπώνυμο: Δημήτρης Μισαηλίδης
+Αριθμός Μητρώου: Π2017066
+Εργασία Ανάπτυξης: Οπτικοποίηση δεδομένων εκπαιδευτικού συστήματος (USA) Τελική αναφορά
 
-You can use the [editor on GitHub](https://github.com/dmisa/HCI-Final-Report/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Η παρακάτω αναφορά αποτελεί την τελική αναφορά για την εργασία ανάπτυξης Data Visualization στο μάθημα της Επικοινωνίας ανθρώπου-υπολογιστή. Περιέχει αναλυτική περιγραφή των έργων, των εργαλείων καθώς και του τρόπου και της τεχνικής ανάπτυξης του κάθε παραδοτέου. Ακόμη, εμπεριέχει gifs και ενδεικτικά της δουλειάς που έγινε. Τέλος, παραθέτονται τα συμπεράσματα της εργασίας και φυσικά η βιβλιογραφία και οι σύνδεσμοι οι οποίοι χρησιμοποιήθηκαν για την κατανόηση και την ανάπτυξη των παραδοτέων.
+Εκτλεσιμο λινκ https://dmisa.github.io/D3js-US-educational-attainment/
+Προφιλ στο github https://github.com/dmisa
+Λινκ αποθετηρίου: https://github.com/dmisa/D3js-US-educational-attainment/tree/gh-pages
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmisa/HCI-Final-Report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Εισαγωγή
+Υλοποίησα όλα τα ζητούμενα του πρώτου παραδοτέου, καθώς και το πρώτο και το τρίτο ζητούμενο του δεύτερου παραδοτέου. Τα προβλήματα που αντιμετώπισα είναι ότι δεν κατάφερα να κάνω responsive όλα τα γραφήματα και δεν άλλαξα τα γραφήματα με άλλα στο 2ο παραδοτέο. Τα υπόλοιπα ζητούμενα υλοποιήθηκαν χωρίς ιδιαίτερα προβλήματα.
