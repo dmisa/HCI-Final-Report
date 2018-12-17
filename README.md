@@ -45,7 +45,7 @@
 ### 2ο Παραδοτέο
 - [x] Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html. 
 ![2.1](/2.1.gif)
-- [] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js. (Δέν έγινε)
+- [ ] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js. (Δέν έγινε)
 - [x] Σε μια καινούργια σελίδα, να τοποθετήσετε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.).
 ![2.3](/2.3.gif)
 
@@ -57,6 +57,7 @@
 
 * [line chart](https://codepen.io/Yurchenko/pen/dGQZay)
 * [pie chart](https://codepen.io/chiranjeeb/pen/KdXGoE)
+* [bar chart](https://codepen.io/vks9009/pen/rWPaXz)
 * [eurostat1](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=344529&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el)
 * [elstat1](http://www.statistics.gr/el/statistics/-/publication/SEL15/-)
 * [elstat2](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20181122-1?inheritRedirect=true&redirect=%2Feurostat%2Fnews%2Fwhats-new)
